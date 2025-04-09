@@ -1,4 +1,3 @@
-https://github.com/user-attachments/assets/2590a629-fbd8-4d75-95e6-f63911d887a5
 Solo attempt on the final project.
 Features implemented:
 1. Jumping(Slower fall)
@@ -12,3 +11,5 @@ Reason/s for failure:
 2. New to mesh, I only learned mesh 2 weeks prior to the final exam.
 3. Cramming, due to lack of time(on my part due to being busy) I cannot finish this project on time.
 4. Relied on ChatGPT too much and trying to do it on my own was impossible, and ChatGPT(I didn't merely copy and paste) didn't make sense at times making it unusable.
+https://github.com/user-attachments/assets/db7c625f-369a-4086-9251-c795f47d0757
+
